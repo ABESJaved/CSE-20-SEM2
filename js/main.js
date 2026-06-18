@@ -17,3 +17,5 @@ for (let i = 1; i <= 5; i++) {
 let arr = [1, 2, 3, 4];
 console.log(word === word.split("").reverse().join(""));
 console.log(Math.floor(Math.random() * 100));
+console.log(word === word.split("").reverse().join(""));
+console.log(Math.floor(Math.random() * 100));
