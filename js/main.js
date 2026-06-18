@@ -7,3 +7,5 @@ for (let i = 1; i <= 10; i++)
 console.log(str.split("").reverse().join(""));
 console.log(str.length);
 let arr = [1, 2, 3, 4];
+let word = "madam";
+console.log(word === word.split("").reverse().join(""));
