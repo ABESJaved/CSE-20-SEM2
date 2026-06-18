@@ -13,3 +13,5 @@ let nums = [5, 2, 8, 1];
 console.log(nums.sort((a, b) => a - b));
 for (let i = 1; i <= 5; i++) {
   fact *= i;
+  console.log(str.length);
+let arr = [1, 2, 3, 4];
